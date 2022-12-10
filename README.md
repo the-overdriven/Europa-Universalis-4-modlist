@@ -10,7 +10,7 @@ All ironman compatible and should run with 1.30.x patch (Emperor DLC, 2020). Som
 [Cmushi's Simpler Terms Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1999969598),  
 [Authentic Flag Improvement Pack 1.30](https://steamcommunity.com/sharedfiles/filedetails/?id=947734673&searchtext=Authentic+Flag+Improvement+Pack+1.30),  
 [A Rev. Font Mod - Theatrum Orbis Terrarum White](https://steamcommunity.com/sharedfiles/filedetails/?id=677259645&searchtext ),  
-[New Quotes](https://steamcommunity.com/sharedfiles/filedetails/?id=1582107035&searchtext=New+Quotes )  
+[New Quotes](https://steamcommunity.com/sharedfiles/filedetails/?id=1582107035&searchtext=New+Quotes ),  
 [Duck's Map Overhaul Modpack](https://steamcommunity.com/sharedfiles/filedetails/?id=1926948425&searchtext=Duck%27s+Map+Overhaul+Modpack ),  
 [Better Terrain Pictures](https://steamcommunity.com/sharedfiles/filedetails/?id=1417122689&searchtext=Better+Terrain+Pictures ),  
 [TBARW Extra: User interface (Lite)](https://steamcommunity.com/sharedfiles/filedetails/?id=322168972&searchtext=TBARW+Extra%3A+User+interface ),  
@@ -22,3 +22,5 @@ All ironman compatible and should run with 1.30.x patch (Emperor DLC, 2020). Som
 [Best Unit Type+](https://steamcommunity.com/sharedfiles/filedetails/?id=1994447693&searchtext=Best+Unit+Type ),  
 [DLC Subscription Remover](https://steamcommunity.com/sharedfiles/filedetails/?id=2430179723&searchtext=DLC+Subscription+Remover ),  
 [Rebel Flag Variety Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=1792575623&searchtext=Rebel+Flag+Variety+Pack ),  
+
+Mirror: [link](https://drive.google.com/file/d/1gl7AxApSgcERDK6kOH1EN96sOTI3-3TR/view?usp=sharing)
